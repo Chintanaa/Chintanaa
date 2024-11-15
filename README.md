@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Chintana
-- 👀 I’m interested in: Artificial and Machine learning, Full stack development,Software engineer,Data Anylst!
+- 👀 I’m interested in: Artificial and Machine learning, Full stack development,Software engineer,Data Analyst!
 - 📫 How to reach me: pchinthana85@gmail.com
 
 <!---
